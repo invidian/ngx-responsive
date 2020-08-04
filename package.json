@@ -89,19 +89,21 @@
     "@nguniversal/express-engine": "^9.1.1",
     "@nguniversal/module-map-ngfactory-loader": "^8.2.6",
     "@types/node": "~8.9.4",
+    "codelyzer": "^6.0.0",
     "copyfiles": "^2.2.0",
     "cpr": "^3.0.1",
     "del-cli": "^3.0.0",
-    "codelyzer": "^6.0.0",
     "ng-packagr": "^10.0.0",
     "onchange": "^7.0.2",
     "protractor": "~7.0.0",
+    "rxjs": "^6.6.2",
     "source-map-explorer": "^2.4.2",
     "ts-loader": "^6.2.1",
-    "tsickle": "^0.38.1",
     "ts-node": "~8.10.1",
+    "tsickle": "^0.38.1",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3",
     "zone.js": "~0.10.3"
-  }
+  },
+  "dependencies": {}
 }
