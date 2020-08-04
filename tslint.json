@@ -1,5 +1,8 @@
 {
     "rules": {
+    "deprecation": {
+      "severity": "warning"
+    },
         "max-classes-per-file": true,
         "directive-selector": [
             true,
